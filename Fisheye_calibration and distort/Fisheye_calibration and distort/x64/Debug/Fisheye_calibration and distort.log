@@ -1,0 +1,60 @@
+﻿  Fisheye_calibration.cpp
+E:\opencv练习\Fisheye_calibration and distort\Fisheye_calibration and distort\Fisheye_calibration.cpp(36,20): warning C4244: “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+E:\opencv练习\Fisheye_calibration and distort\Fisheye_calibration and distort\Fisheye_calibration.cpp(37,20): warning C4244: “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+E:\opencv练习\Fisheye_calibration and distort\Fisheye_calibration and distort\Fisheye_calibration.cpp(72,29): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\opencv练习\Fisheye_calibration and distort\Fisheye_calibration and distort\Fisheye_calibration.cpp(72,23): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\opencv练习\Fisheye_calibration and distort\Fisheye_calibration and distort\Fisheye_calibration.cpp(73,30): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\opencv练习\Fisheye_calibration and distort\Fisheye_calibration and distort\Fisheye_calibration.cpp(73,23): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\opencv练习\Fisheye_calibration and distort\Fisheye_calibration and distort\Fisheye_calibration.cpp(74,30): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\opencv练习\Fisheye_calibration and distort\Fisheye_calibration and distort\Fisheye_calibration.cpp(74,23): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\opencv练习\Fisheye_calibration and distort\Fisheye_calibration and distort\Fisheye_calibration.cpp(75,30): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\opencv练习\Fisheye_calibration and distort\Fisheye_calibration and distort\Fisheye_calibration.cpp(75,23): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+  Fisheye_calibration and distort.vcxproj -> E:\opencv练习\Fisheye_calibration and distort\x64\Debug\Fisheye_calibration and distort.exe
